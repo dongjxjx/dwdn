@@ -41,7 +41,7 @@ python main.py
 
 ## Pre-trained Model
 
-./model/model_DWDN.pt
+Please download the model from https://gitlab.mpi-klsb.mpg.de/jdong/dwdn/-/blob/master/model/model_DWDN.pt and put it in the folder "./model/".
 
 ## Bibtex
 

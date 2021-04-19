@@ -52,6 +52,7 @@ Please cite our paper if it is helpful to your work:
   title={Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring},
   author={Dong, Jiangxin and Roth, Stefan and Schiele, Bernt},
   journal={Advances in Neural Information Processing Systems},
+  pages = {1048--1059},
   volume={33},
   year={2020}
 }
